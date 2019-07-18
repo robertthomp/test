@@ -1,0 +1,13 @@
+#projectButton{
+color: red
+}
+
+body{ 
+  background-image: linear-gradient(blue, red)
+}
+#one {
+  font-size: 40; color: white;
+}
+#two {
+  font-size: 25; color:#03eeff ;
+}
